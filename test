@@ -1,0 +1,9 @@
+ <thead>
+    <tr>
+        <th scope="col">姓名</th>
+        <th scope="col">语文</th>
+        <th scope="col">数学</th>
+        <th scope="col">英语</th>
+        <th scope="col">操作</th>
+    </tr>
+    </thead>
